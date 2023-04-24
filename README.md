@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [a space simulation](http://jorritschepers.github.io)
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Unity

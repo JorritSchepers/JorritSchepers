@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [a space simulation](http://jorritschepers.github.io)
+- 🔭 I’m currently working on [a space simulation](http://jorritschepers.github.io/solarsim)
 - 🌱 I’m currently learning Unity
